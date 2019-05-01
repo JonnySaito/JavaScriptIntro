@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.red{
+  color: red;
+}
+
+.lightblue{
+  color: lightblue;
+}
+
+.container{
+  max-width: 1140px;
+  margin: 0 auto;
+  padding-left: 40px;
+}
+
+#pageContainer{
+
+}
+
+#heading{
+
+}
+
+#yourName{
+
+}
+
+#bandName{
+
+}
+
+#italFood{
+
+}
